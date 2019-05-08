@@ -1,0 +1,29 @@
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\bin\Debug\CourseSchedulerDB.mdf
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\bin\Debug\CourseSchedulerDB_log.ldf
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\bin\Debug\CourseScheduler.exe.config
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\bin\Debug\CourseScheduler.exe
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\bin\Debug\CourseScheduler.pdb
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\CourseScheduler.csprojResolveAssemblyReference.cache
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\Custom Controls\AddCourseControl.g.cs
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\Custom Controls\AddCourseEnrollmentControl.g.cs
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\Custom Controls\AddStudentControl.g.cs
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\DbItemCreationWindow.g.cs
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\MainWindow.g.cs
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\Custom Controls\AddCombinationsControl.g.cs
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\App.g.cs
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\CourseScheduler_Content.g.cs
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\CourseScheduler_MarkupCompile.cache
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\CourseScheduler_MarkupCompile.lref
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\App.baml
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\Custom Controls\AddCourseControl.baml
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\Custom Controls\AddCourseEnrollmentControl.baml
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\Custom Controls\AddStudentControl.baml
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\DbItemCreationWindow.baml
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\MainWindow.baml
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\Custom Controls\AddCombinationsControl.baml
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\CourseScheduler.g.resources
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\CourseScheduler.Properties.Resources.resources
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\CourseScheduler.csproj.GenerateResource.Cache
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\CourseScheduler.exe
+C:\Users\petzaka\Downloads\CourseScheduler-component2\CourseScheduler-component2\CourseScheduler\obj\Debug\CourseScheduler.pdb
